@@ -1,6 +1,5 @@
 Snake game feito para a pratica e entendimento mais amplo do uso de metodos, classes, herança, implementação e outros recursos da linguagem Java.
-Toda lógica foi aprendida  pelo canal BroCode. Link do video: https://youtu.be/bI6e6qjJ8JQ
-Obs.: Foi adicionado um restarte no game, função que não havia no código original !!
+Foi adicionado um restarte no game, função que não havia antes !!
 
 
 Screenshots: 
